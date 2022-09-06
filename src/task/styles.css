@@ -33,7 +33,7 @@
     font: italic bold 15px monospace;
     text-align-last: justify;
     top: 250px;
-    
+    padding: 15px;
 }
 #main{
     position: fixed;

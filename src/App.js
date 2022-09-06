@@ -1,4 +1,3 @@
-import Das1 from "./task/task";
 import './task/styles.css';
 import Task from "./task/task";
 
